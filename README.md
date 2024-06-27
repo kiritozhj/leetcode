@@ -33,6 +33,7 @@
 - [40.组合总和II](./problems/40.组合总和II.md)  
 - [42.接雨水](./problems/42.接雨水.md)  
 - [46.全排列](./problems/46.全排列.md)  
+- [47.全排列II](./problems/47.全排列II.md)  
 - [48.旋转图像](./problems/48.旋转图像.md)  
 - [49.字母异位词分组](./problems/49.字母异位词分组.md)  
 - [53.最大子数组和](./problems/53.最大子数组和.md)  
